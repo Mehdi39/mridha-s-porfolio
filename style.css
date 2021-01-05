@@ -9,4 +9,9 @@ h1 {
 
 .half-width {
     width: 40%;
+    float: left;
+}
+
+.half-width img{
+    size: 100%;
 }
